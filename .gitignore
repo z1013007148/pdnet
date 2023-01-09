@@ -1,0 +1,6 @@
+train-data.tar.gz
+.idea
+data
+.ipynb_checkpoints
+*.npz
+*.pdb

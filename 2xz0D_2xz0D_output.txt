@@ -1,0 +1,12 @@
+prediction-cut-off: 15.0 min-seq-sep:12 xL:Top-L/5	{'mae': 2.2268, 'mse': 7.5383, 'rmse': 2.7456, 'pearsonr': 0.4366, 'count': 16}
+prediction-cut-off: 15.0 min-seq-sep:12 xL:Top-L/2	{'mae': 2.9223, 'mse': 13.8095, 'rmse': 3.7161, 'pearsonr': 0.5154, 'count': 40}
+prediction-cut-off: 15.0 min-seq-sep:12 xL:Top-L  	{'mae': 3.03, 'mse': 15.9134, 'rmse': 3.9892, 'pearsonr': 0.4653, 'count': 81}
+prediction-cut-off: 15.0 min-seq-sep:12 xL:ALL    	{'mae': 2.156, 'mse': 9.1803, 'rmse': 3.0299, 'pearsonr': 0.5461, 'count': 735}
+prediction-cut-off: 15.0 min-seq-sep:24 xL:Top-L/5	{'mae': 2.9424, 'mse': 11.1428, 'rmse': 3.3381, 'pearsonr': 0.3534, 'count': 16}
+prediction-cut-off: 15.0 min-seq-sep:24 xL:Top-L/2	{'mae': 2.8976, 'mse': 12.6476, 'rmse': 3.5563, 'pearsonr': 0.4525, 'count': 40}
+prediction-cut-off: 15.0 min-seq-sep:24 xL:Top-L  	{'mae': 2.6807, 'mse': 10.7712, 'rmse': 3.282, 'pearsonr': 0.1974, 'count': 81}
+prediction-cut-off: 15.0 min-seq-sep:24 xL:ALL    	{'mae': 2.3743, 'mse': 9.176, 'rmse': 3.0292, 'pearsonr': 0.5614, 'count': 480}
+Radius:15 min-seq-sep: 0	Cb-LDDT:	0.6403
+Radius:15 min-seq-sep: 6	Cb-LDDT:	0.5664
+Radius:15 min-seq-sep:12	Cb-LDDT:	0.5501
+Radius:15 min-seq-sep:24	Cb-LDDT:	0.4629
